@@ -49,10 +49,10 @@ This project demonstrates practical usage of:
 ## 🗂️ Project Structure
 
 ```
-├── Main.cpp              # Entry point (menus & interaction)
-├── Tree_Graph.h         # Graph + BST implementation
-├── Stack_Queue.h        # Stack and Queue structures
-├── Main.h               # Supporting declarations
+├── Main.cpp                    # Entry point (menus & interaction)
+├── Tree_Graph.h  and .cpp      # Graph + BST implementation
+├── Stack_Queue.h and .cpp      # Stack and Queue structures
+├── Main.h                      # Supporting declarations
 ```
 
 ---
